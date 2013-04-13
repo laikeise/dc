@@ -1,0 +1,114 @@
+CREATE TABLE shared_sessions (
+  ses_id varchar(32) NOT NULL default '',
+  ses_time int(11) NOT NULL default '0',
+  ses_start int(11) NOT NULL default '0',
+  ses_value text NOT NULL,
+  PRIMARY KEY  (ses_id)
+) TYPE=MyISAM;
+# --------------------------------------------------------
+
+#
+# Table structure for table `shared_users`
+#
+
+CREATE TABLE shared_users (
+  ID int(8) NOT NULL auto_increment,
+  UID varchar(20) NOT NULL default '',
+  Password varchar(32) NOT NULL default '',
+  CreatedBy tinyint(8) NOT NULL default '0',
+  LastModifiedOn tinyint(11) NOT NULL default '0',
+  LastModifiedBy int(8) NOT NULL default '0',
+  PRIMARY KEY  (ID)
+) TYPE=MyISAM;
+# --------------------------------------------------------
+
+#
+# Table structure for table `sl_users_ext`
+#
+
+CREATE TABLE sl_users_ext (
+  ID int(8) NOT NULL default '0',
+  Name varchar(255) NOT NULL default '',
+  UserGroup varchar(10) NOT NULL default '',
+  Suspended char(1) NOT NULL default ''
+) TYPE=MyISAM;
+
+INSERT INTO shared_users VALUES (NULL,'admin','c33367701511b4f6020ec61ded352059',0,0,0);
+INSERT INTO sl_users_ext VALUES (1,'admin','Gmt','0');
+
+INSERT INTO shared_users VALUES (NULL,'test1','233fb476a434b6e224e28caa6c7f8e1b',1,1,1);
+INSERT INTO sl_users_ext VALUES (2,'admin','main','0');
+update shared_users set password='75e7109aa7f34c90eda0721057ad060e' where id=1;
+update shared_users set password='c33367701511b4f6020ec61ded352059' where id=1;
+update sl_users_ext set Suspended ='0' where id=2;
+update sl_users_ext set UserGroup ='Mgt' where id=1;
+
+update user_profile set userp_last_time  ='' where userp_uid =1;
+
+/**
+    * Database Tables
+    *
+    * The following db table should be created:
+    *
+    *	# Fields usage 
+    *	# userp_uid - Unique identifier for user profile
+    *	# userp_login - user login id
+    *	# userp_pass - password
+    *	# userp_name - name of user
+    *	# userp_last_time - timestamp of user last login
+    *	# userp_last_sid - last site entered
+    *	#
+    *	# userp_status - account status
+    *	# 1 - active - Running account
+    *	# 2 - locked - Freeze account
+    *	# 3 - removed - Remove account. (Will be remove by cron jobs on time expiry)
+    *
+    *	CREATE TABLE user_profile (
+    *	userp_uid int(10) unsigned NOT NULL auto_increment,
+    *	userp_login varchar(25) NOT NULL default '',
+    *	userp_pass varchar(32) NOT NULL default '',
+    *	userp_name varchar(50) NOT NULL default '',
+    *	userp_last_time timestamp NOT NULL default 'NULL',
+    *	userp_last_sid int(10) NOT NULL default 0,
+    *	userp_status tinyint NOT NULL default 0,
+    *	primary key(userp_uid)
+    *	)TYPE=MyISAM;
+    *	
+    *	INSERT INTO user_profile VALUES (NULL,'robrob','c33367701511b4f6020ec61ded352059','Jacky',NULL,0,1);
+    *
+    *	# Fields usage - 
+    *	# userp_uid - Unique identifier for user profile
+    *	# site_sid - Unique identifier for site profile
+    *	# usite_lvl
+    *	# Different access lvl
+    *	# 1 - administor - Main Admin of centres
+    *	# 2 - site administor - Site Admin of centres
+    *	# 3 - advanced user - Back end admin of sites 
+    *	# 4 - normal user - normal users of sites
+    *	# 5 - guest user - visitor access to view private site contents
+    *
+    *	CREATE TABLE usite_cont (
+    *	userp_uid int(10) NOT NULL default 0,
+    *	site_sid int(10) NOT NULL default 0,
+    *	usite_lvl tinyint(4) NOT NULL default 0,
+    *	#primary key(site_id)
+    *	)TYPE=MyISAM;
+    *
+    *	INSERT INTO usite_cont VALUES (1,1,1);
+    *
+    **/
+/**
+	*	# Fields usage 
+	*	# site_sid - Unique identifier for site profile
+	*	# site_name - site name
+	*	# site_address - site web address
+	*	#
+	*	CREATE TABLE site_profile (
+	*	site_sid int(10) unsigned NOT NULL auto_increment,
+	*	site_name varchar(50) NOT NULL default '',
+	*	site_address varchar(100) NOT NULL default '',
+	*	primary key(site_sid)
+	*	)TYPE=MyISAM;
+	*	INSERT INTO site_profile VALUES (NULL,'test1','www.test1.com');
+	*
+	**/

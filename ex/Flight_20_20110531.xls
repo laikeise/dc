@@ -1,0 +1,80 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<table width='100%' border='1' cellspacing='0' cellpadding='1'><tr><td colspan=19><div align=center class=ftitle5>By Arrival / Departure Date Report ( All Records )</div></td></tr><tr><td valign=top class=ftitle1>##</td><td valign=top class=ftitle1>Sal</td><td valign=top class=ftitle1>Family Name</td><td valign=top class=ftitle1>First Name</td><td valign=top class=ftitle1>Player Type</td><td valign=top class=ftitle1>Country</td><td valign=top class=ftitle1>Arrival Date</td><td valign=top class=ftitle1>Arrival Time</td><td valign=top class=ftitle1>Arrival Flight</td><td valign=top class=ftitle1>Arrival Airport</td><td valign=top class=ftitle1>Departure Date</td><td valign=top class=ftitle1>Departure Time</td><td valign=top class=ftitle1>Departure Flight</td><td valign=top class=ftitle1>Departure Airport</td><td valign=top class=ftitle1>Departure Pick-Up Time</td><td valign=top class=ftitle1>Transport Mode</td><td valign=top class=ftitle1>Transfer Requirement</td><td valign=top class=ftitle1>Room</td><td valign=top class=ftitle1>Comment</td>	</tr>
+	<tr height=65><td valign=top class=fname1>1</td>
+<td valign=top class=fname1>Mr</td>
+<td valign=top class=fname1>t</td>
+<td valign=top class=fname1>l</td>
+<td valign=top class=fname1>T</td>
+<td valign=top class=fname1>Malaysia</td>
+<td valign=top class=fname1>20-Aug-11</td>
+<td valign=top class=fname1>00:00</td>
+<td valign=top class=fname1>SQ34</td>
+<td valign=top class=fname1>BI</td>
+<td valign=top class=fname1>24-Aug-11</td>
+<td valign=top class=fname1>00:00</td>
+<td valign=top class=fname1>SQ32</td>
+<td valign=top class=fname1>DA</td>
+<td valign=top class=fname1>00:00</td>
+<td valign=top class=fname1>Shuttle Bus</td>
+<td valign=top class=fname1>2-way</td>
+<td valign=top class=fname1>DDN</td>
+<td valign=top class=fname1><div style="width:200px;height:65px;overflow-y:auto;" class=fname1>test only</div></td>
+</tr><tr height=65><td valign=top class=fname1>2</td>
+<td valign=top class=fname1>Mr</td>
+<td valign=top class=fname1>Tan </td>
+<td valign=top class=fname1>Teck Wye TEST</td>
+<td valign=top class=fname1>G</td>
+<td valign=top class=fname1>Singapore</td>
+<td valign=top class=fname1>23-Aug-11</td>
+<td valign=top class=fname1>19:00</td>
+<td valign=top class=fname1>QF051</td>
+<td valign=top class=fname1>BI</td>
+<td valign=top class=fname1>27-Aug-11</td>
+<td valign=top class=fname1>13:00</td>
+<td valign=top class=fname1>FQ052</td>
+<td valign=top class=fname1>BI</td>
+<td valign=top class=fname1>00:00</td>
+<td valign=top class=fname1>Shuttle Bus</td>
+<td valign=top class=fname1>2-way</td>
+<td valign=top class=fname1>DSN</td>
+<td valign=top class=fname1><div style="width:200px;height:65px;overflow-y:auto;" class=fname1></div></td>
+</tr><tr height=65><td valign=top class=fname1>3</td>
+<td valign=top class=fname1>Mr</td>
+<td valign=top class=fname1>Pornsak</td>
+<td valign=top class=fname1>Sirawan</td>
+<td valign=top class=fname1>T</td>
+<td valign=top class=fname1>Thailand</td>
+<td valign=top class=fname1>23-Aug-11</td>
+<td valign=top class=fname1>20:00</td>
+<td valign=top class=fname1>TG123</td>
+<td valign=top class=fname1>BI</td>
+<td valign=top class=fname1>27-Aug-11</td>
+<td valign=top class=fname1>16:00</td>
+<td valign=top class=fname1>TG124</td>
+<td valign=top class=fname1>BI</td>
+<td valign=top class=fname1>00:00</td>
+<td valign=top class=fname1>Shuttle Bus</td>
+<td valign=top class=fname1>2-way</td>
+<td valign=top class=fname1>DDN</td>
+<td valign=top class=fname1><div style="width:200px;height:65px;overflow-y:auto;" class=fname1></div></td>
+</tr></table><p STYLE='page-break-before: always'></p>	<div align=center class=ftitle5>By Arrival / Departure Date Report</div>
+          <TABLE border=0 align="center">
+              <TBODY>
+              <TR vAlign=top>
+              <td align=center colspan=3 class=fname1><br/>Report Total <input class=LegendFooter type=button value="(Legend)" onclick="WindowsOpen('index.php?s=legend&as=view',500,350)">
+              </td>
+              </tr>
+              <TR vAlign=top>
+  <td>
+<TABLE border=0><TBODY><TR><TD class=ftitle1 align=right colspan=2><B>Room Total:</B></TD></TR><TR><TD class=fname1 align=right>DDN -</TD><TD class=fname1>2&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>DDS -</TD><TD class=fname1>0&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>DSN -</TD><TD class=fname1>1&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>DSS -</TD><TD class=fname1>0&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>DTN -</TD><TD class=fname1>0&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>DTS -</TD><TD class=fname1>0&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>NA -</TD><TD class=fname1>0&nbsp;</TD></TR><TR><TD class=fname1 align=right><B>(Total) :</B></TD><TD class=fname1>3&nbsp;</TD></TR></TBODY></TABLE></td>
+<td>
+<TABLE border=0><TBODY><TR><TD class=ftitle1 align=right colspan=2><B>Transport Total:</B></TD></TR><TR><TD class=fname1 align=right>HL -</TD><TD class=fname1>0&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>NT -</TD><TD class=fname1>0&nbsp;</TD></TR><TR><TR><TD class=fname1 align=right>SB -</TD><TD class=fname1>3&nbsp;</TD></TR><TR><TD class=fname1 align=right><B>(Total) :</B></TD><TD class=fname1>3&nbsp;</TD></TR></TBODY></TABLE></td>
+<td>
+<TABLE border=0><TBODY><TR><TD class=ftitle1 align=right colspan=2><B>Activity Total:</B></TD></TR><TR><TD class=fname1 align=right>BR18 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>BR19 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>BR20 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>DN18 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>DN19 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>DN20 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>GTD -</TD><TD class=fname1>1&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>LGD -</TD><TD class=fname1>1&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>LU18 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>LU19 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>LU20 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>SDE -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>TD1 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>TD2 -</TD><TD class=fname1>2&nbsp;</TD></TR></TD><TR><TD class=fname1 align=right>WUR -</TD><TD class=fname1>2&nbsp;</TD></TR></TD></TBODY></TABLE></td>
+</tr>
+<tr>
+<td colspan=3>
+<table width='100%' border='1' cellspacing='0' cellpadding='0'><TBODY><TR><TD class=ftitle1 align=center colspan=16><B>Room Summary ((Today BookIn) + (Current) = (Total for Today)):</B></TD></TR><TR><TD class=fname1 align=center colspan=2>&nbsp;20-08-2011&nbsp;<br/></td><TD class=fname1 align=right>&nbsp;DDN -&nbsp;</td><TD class=fname1 align=left>&nbsp;1 + 0 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DDS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;NA -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td></TR><TR><TD class=fname1 align=center colspan=2>&nbsp;21-08-2011&nbsp;<br/></td><TD class=fname1 align=right>&nbsp;DDN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DDS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;NA -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td></TR><TR><TD class=fname1 align=center colspan=2>&nbsp;22-08-2011&nbsp;<br/></td><TD class=fname1 align=right>&nbsp;DDN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DDS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;NA -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td></TR><TR><TD class=fname1 align=center colspan=2>&nbsp;23-08-2011&nbsp;<br/></td><TD class=fname1 align=right>&nbsp;DDN -&nbsp;</td><TD class=fname1 align=left>&nbsp;1 + 1 = 2&nbsp;</td><TD class=fname1 align=right>&nbsp;DDS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSN -&nbsp;</td><TD class=fname1 align=left>&nbsp;1 + 0 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DSS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;NA -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td></TR><TR><TD class=fname1 align=center colspan=2>&nbsp;24-08-2011&nbsp;<br/></td><TD class=fname1 align=right>&nbsp;DDN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DDS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DSS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;NA -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td></TR><TR><TD class=fname1 align=center colspan=2>&nbsp;25-08-2011&nbsp;<br/></td><TD class=fname1 align=right>&nbsp;DDN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DDS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DSS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;NA -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td></TR><TR><TD class=fname1 align=center colspan=2>&nbsp;26-08-2011&nbsp;<br/></td><TD class=fname1 align=right>&nbsp;DDN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DDS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DSN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 1 = 1&nbsp;</td><TD class=fname1 align=right>&nbsp;DSS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTN -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;DTS -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td><TD class=fname1 align=right>&nbsp;NA -&nbsp;</td><TD class=fname1 align=left>&nbsp;0 + 0 = 0&nbsp;</td></TR></TBODY></TABLE></td>
+
+</TR>
+</TBODY></TABLE>

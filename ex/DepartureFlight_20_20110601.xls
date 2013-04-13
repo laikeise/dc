@@ -1,0 +1,57 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<table width='100%' border='1' cellspacing='0' cellpadding='1'><tr><td colspan=11><div align=center class=ftitle5>By Departure Date Report </div></td></tr><tr height=55 valign=bottom><td colspan=11><b>Date : 24-Aug-11</b><br/><b>Flight : SQ32</b><br/><b>Airport : Brisbane Domestic</b><br/></td></tr><tr><td valign=top class=ftitle1>##</td><td valign=top class=ftitle1>Sal</td><td valign=top class=ftitle1>Family Name</td><td valign=top class=ftitle1>First Name</td><td valign=top class=ftitle1>Country</td><td valign=top class=ftitle1>Date</td><td valign=top class=ftitle1>Time</td><td valign=top class=ftitle1>Flight</td><td valign=top class=ftitle1>Pick-Up Time</td><td valign=top class=ftitle1>Trans</td><td valign=top class=ftitle1>Requirement</td>	</tr>	<tr height=65><td valign=top class=fname1 width=20>1</td>
+<td valign=top class=fname1 width=70>Mr</td>
+<td valign=top class=fname1 width=70>t</td>
+<td valign=top class=fname1 width=70>l</td>
+<td valign=top class=fname1 width=70>Malaysia</td>
+<td valign=top class=fname1 width=70>24-Aug-11</td>
+<td valign=top class=fname1 width=80>00:00</td>
+<td valign=top class=fname1 width=70>SQ32</td>
+<td valign=top class=fname1 width=80>00:00</td>
+<td valign=top class=fname1 width=80>Shuttle Bus</td>
+<td valign=top class=fname1 width=80>2-way</td>
+</tr><tr height=55 valign=bottom><td colspan=11><b>Date : 27-Aug-11</b><br/><b>Flight : FQ052</b><br/><b>Airport : Brisbane International</b></td></tr><tr><td valign=top class=ftitle1>##</td><td valign=top class=ftitle1>Sal</td><td valign=top class=ftitle1>Family Name</td><td valign=top class=ftitle1>First Name</td><td valign=top class=ftitle1>Country</td><td valign=top class=ftitle1>Date</td><td valign=top class=ftitle1>Time</td><td valign=top class=ftitle1>Flight</td><td valign=top class=ftitle1>Pick-Up Time</td><td valign=top class=ftitle1>Trans</td><td valign=top class=ftitle1>Requirement</td>	</tr>	<tr height=65><td valign=top class=fname1 width=20>1</td>
+<td valign=top class=fname1 width=70>Mr</td>
+<td valign=top class=fname1 width=70>Tan </td>
+<td valign=top class=fname1 width=70>Teck Wye TEST</td>
+<td valign=top class=fname1 width=70>Singapore</td>
+<td valign=top class=fname1 width=70>27-Aug-11</td>
+<td valign=top class=fname1 width=80>13:00</td>
+<td valign=top class=fname1 width=70>FQ052</td>
+<td valign=top class=fname1 width=80>00:00</td>
+<td valign=top class=fname1 width=80>Shuttle Bus</td>
+<td valign=top class=fname1 width=80>2-way</td>
+</tr><tr height=55 valign=bottom><td colspan=11><b>Date : 27-Aug-11</b><br/><b>Flight : TG124</b><br/><b>Airport : Brisbane International</b></td></tr><tr><td valign=top class=ftitle1>##</td><td valign=top class=ftitle1>Sal</td><td valign=top class=ftitle1>Family Name</td><td valign=top class=ftitle1>First Name</td><td valign=top class=ftitle1>Country</td><td valign=top class=ftitle1>Date</td><td valign=top class=ftitle1>Time</td><td valign=top class=ftitle1>Flight</td><td valign=top class=ftitle1>Pick-Up Time</td><td valign=top class=ftitle1>Trans</td><td valign=top class=ftitle1>Requirement</td>	</tr>	<tr height=65><td valign=top class=fname1 width=20>1</td>
+<td valign=top class=fname1 width=70>Mr</td>
+<td valign=top class=fname1 width=70>Pornsak</td>
+<td valign=top class=fname1 width=70>Sirawan</td>
+<td valign=top class=fname1 width=70>Thailand</td>
+<td valign=top class=fname1 width=70>27-Aug-11</td>
+<td valign=top class=fname1 width=80>16:00</td>
+<td valign=top class=fname1 width=70>TG124</td>
+<td valign=top class=fname1 width=80>00:00</td>
+<td valign=top class=fname1 width=80>Shuttle Bus</td>
+<td valign=top class=fname1 width=80>2-way</td>
+</tr><tr height=55 valign=bottom><td colspan=11><b>Date : 27-Aug-11</b><br/><b>Flight : QF52</b><br/><b>Airport : Brisbane International</b></td></tr><tr><td valign=top class=ftitle1>##</td><td valign=top class=ftitle1>Sal</td><td valign=top class=ftitle1>Family Name</td><td valign=top class=ftitle1>First Name</td><td valign=top class=ftitle1>Country</td><td valign=top class=ftitle1>Date</td><td valign=top class=ftitle1>Time</td><td valign=top class=ftitle1>Flight</td><td valign=top class=ftitle1>Pick-Up Time</td><td valign=top class=ftitle1>Trans</td><td valign=top class=ftitle1>Requirement</td>	</tr>	<tr height=65><td valign=top class=fname1 width=20>1</td>
+<td valign=top class=fname1 width=70>Mr</td>
+<td valign=top class=fname1 width=70>Eriek</td>
+<td valign=top class=fname1 width=70>Ridwan</td>
+<td valign=top class=fname1 width=70>Indonesia</td>
+<td valign=top class=fname1 width=70>27-Aug-11</td>
+<td valign=top class=fname1 width=80>17:00</td>
+<td valign=top class=fname1 width=70>QF52</td>
+<td valign=top class=fname1 width=80>00:00</td>
+<td valign=top class=fname1 width=80>No Transport</td>
+<td valign=top class=fname1 width=80>&nbsp;-</td>
+</tr><tr height=55 valign=bottom><td colspan=11><b>Date : 27-Aug-11</b><br/><b>Flight : QF345</b><br/><b>Airport : Brisbane Domestic</b></td></tr><tr><td valign=top class=ftitle1>##</td><td valign=top class=ftitle1>Sal</td><td valign=top class=ftitle1>Family Name</td><td valign=top class=ftitle1>First Name</td><td valign=top class=ftitle1>Country</td><td valign=top class=ftitle1>Date</td><td valign=top class=ftitle1>Time</td><td valign=top class=ftitle1>Flight</td><td valign=top class=ftitle1>Pick-Up Time</td><td valign=top class=ftitle1>Trans</td><td valign=top class=ftitle1>Requirement</td>	</tr>	<tr height=65><td valign=top class=fname1 width=20>1</td>
+<td valign=top class=fname1 width=70>Mrs</td>
+<td valign=top class=fname1 width=70>Tan </td>
+<td valign=top class=fname1 width=70>Jasmine</td>
+<td valign=top class=fname1 width=70>Singapore</td>
+<td valign=top class=fname1 width=70>27-Aug-11</td>
+<td valign=top class=fname1 width=80>18:00</td>
+<td valign=top class=fname1 width=70>QF345</td>
+<td valign=top class=fname1 width=80>00:00</td>
+<td valign=top class=fname1 width=80>No Transport</td>
+<td valign=top class=fname1 width=80>&nbsp;-</td>
+</tr><table><tr><td class=fname1>Note :</td></tr><tr><td class=fname1>Shuttle Bus</td><td class=fname1>: Provided by Aries Tour</td></tr><tr><td class=fname1>Hotel Limo</td><td class=fname1>: Provided by Hyatt</td></tr><tr><td class=fname1>No Transport</td><td class=fname1>: No transport arrangements required</td></tr></table><p STYLE='page-break-after: always'></p>	</TBODY></TABLE>

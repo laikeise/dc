@@ -1,0 +1,216 @@
+.default {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+P {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+TD {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+BR {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+INPUT {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+SELECT {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+TEXTAREA {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+DIV {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+DD {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+DT {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+UL {
+	FONT-SIZE: 12px; Z-INDEX: 1; COLOR: black; FONT-FAMILY: arial, helvetica
+}
+A {
+	COLOR: navy; TEXT-DECORATION: none
+}
+A:link {
+	COLOR: navy; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: navy; TEXT-DECORATION: none
+}
+P {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+UL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+OL {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+BLOCKQUOTE {
+	MARGIN-TOP: 8px; MARGIN-BOTTOM: 8px
+}
+A:hover {
+	COLOR: blue; TEXT-DECORATION: none
+}
+.ftitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #014588
+}
+.fname {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #aaaadd
+}
+.fvalue {
+	FONT-SIZE: 12px; FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #FFFFFF
+}
+.fname1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND-COLOR: #FFFFFF
+}
+.fname2 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+.fname3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND-COLOR: #00CCFF
+}
+.fname1norm {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+.ftitle1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; BACKGROUND-COLOR: #014588; TEXT-ALIGN: CENTER
+}
+.ftitle2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: black; BACKGROUND-COLOR: #aaaadd
+}
+.ftitle3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #002369
+}
+.ftitle4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; BACKGROUND-COLOR: #276eB4
+}
+.ftitle5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: white; BACKGROUND-COLOR: #276eB4
+}
+.item1 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND-COLOR: #ddddf0
+}
+.dimmer {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: gray; BACKGROUND-COLOR: #ddddf0
+}
+.today {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: black; BACKGROUND-COLOR: #ddddf0
+}
+.activetab {
+	COLOR: #ffff66; BACKGROUND-COLOR: #666699
+}
+.inactivetab {
+	COLOR: #ffff66; BACKGROUND-COLOR: #666699
+}
+.tabtable {
+	BACKGROUND-COLOR: #FFFFFF;
+}
+.fcomments {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: gray
+}
+.fcommentsdark {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000
+}
+.fcontactreport {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px
+}
+.ftcontactreport {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; BACKGROUND-COLOR: #aaaadd
+}
+.fscontactreport {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px
+}
+.fcontactreport_bw {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: brown
+}
+.fwhite {
+	BACKGROUND-COLOR: white
+}
+.cal_Today {
+	FONT-FAMILY: arial, helvetica; BACKGROUND-COLOR: #ffff95
+}
+.cal_Holiday {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: red
+}
+.cal_Festival {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: teal
+}
+.cal_EventHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: white; BACKGROUND-COLOR: #808080
+}
+.cal_StartDate {
+	BACKGROUND-COLOR: green
+}
+.cal_EndDate {
+	BACKGROUND-COLOR: red
+}
+.cal_Header {
+	FONT-SIZE: 15px; BACKGROUND-COLOR: #ddddf0
+}
+.cal_HeaderText {
+	BACKGROUND-COLOR: #ddddf0
+}
+.cal_Cell {
+	BACKGROUND-COLOR: #ccccff
+}
+.cal_WeekdayCell {
+	BACKGROUND-COLOR: #dcdcd0
+}
+.ErrorMsg {
+	FONT-SIZE: 14px; COLOR: red
+}
+.SubHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #ffffff
+}
+.TextErrMsg {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: red
+}
+.TextWrnMsg {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: beige
+}
+.TextMsg {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: teal
+}
+.TextHeader {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: beige
+}
+.TextSubHeader {
+	FONT-SIZE: 13px; COLOR: #808080
+}
+.TextFooter {
+	FONT-SIZE: 10px; COLOR: black
+}
+.TextLinkFooter {
+	FONT-SIZE: 10px; COLOR: #0000ff
+}
+.TimerFooter {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 10px; BORDER-LEFT: 0px; WIDTH: 90px; COLOR: black; BORDER-BOTTOM: 0px
+}
+.LegendFooter {
+	display:none; BORDER-RIGHT: 0px; BORDER-TOP: 0px; FONT-SIZE: 10px; BORDER-LEFT: 0px; WIDTH: 65px; COLOR: blue; background: white; BORDER-BOTTOM: 0px
+}
+.CurrentSelectedText {
+	FONT-SIZE: 11px; COLOR: teal
+}
+.CurrentSelectedValue {
+	FONT-SIZE: 12px; COLOR: white
+}
+.WelcomeText {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: black
+}
+.ButtonStyle {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px
+}
+.TextBoxStyle {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px
+}
+.pname {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: white; BACKGROUND-COLOR: #666699
+}
+.pnumber {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: black; BACKGROUND-COLOR: #aaaadd
+}
