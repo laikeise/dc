@@ -36,6 +36,7 @@
 		//print "success ";
 		if ($profile) {
 			$sUSERID=$User_Info->get_User($_uid);
+			$_SESSION["sUSERID"]=$sUSERID;
 			//print $sUSERID;
 			$newdetail=array("userp_last_time"=>"NULL");
 			$_PROFILE=$User_Info->authUser($_SESSION["sUSERID"],"login");
@@ -51,7 +52,6 @@
 			$sCONTROLLVL=$Site_Info->verify_Siteaccess($sUSERID,$sSITEID);
 			//print $sCONTROLLVL;
 			
-			$_SESSION["sUSERID"]=$sUSERID;
 			$_SESSION["sSITEID"]=$sSITEID;
 			$_SESSION["sCONTROLLVL"]=$sCONTROLLVL;
 			$_SESSION["sNick"]=($_PROFILE->userp_login);
